@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fastapi": "^0.0.8",
+    "flask": "^0.2.10",
+    "numpy": "^0.0.1",
+    "pandas": "^0.0.3",
+    "pip": "^0.0.1",
+    "seaborn": "^0.0.1-security",
+    "uvicorn": "^0.0.1-security"
+  }
+}

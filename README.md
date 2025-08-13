@@ -33,10 +33,8 @@ Medical-insurance-price-prediction/
 ├── model.pkl        # Trained ML model
 ├── templates/
 │   └── index.html   # Frontend HTML
-├── static/
-│   ├── style.css    # Tailwind CSS & custom styles
-│   └── script.js    # Frontend JavaScript for interaction
 └── requirements.txt # Python dependencies
+
 ```
 ## 🚀 Getting Started
 **1️⃣ Clone the repository**
